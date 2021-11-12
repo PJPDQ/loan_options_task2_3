@@ -6,7 +6,7 @@
 
 - Task 2 is assessing applicant to create a PHP file to be executed in the command line prompt. 
 - The parameter provided by the user with at least 3 arguments consisting the category desired and number of data expected to display in command prompt as a standard output.
-
+API reference: http://universities.hipolabs.com/search?country=Australia
 For proper output execution, the program has been tested and executed through
 
 `php index.php <category> <limit>`
