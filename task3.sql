@@ -1,4 +1,6 @@
-CREATE DATABASE 'task3';
+/* This is mainly for personal use, feel free to uncomment them if necessary. */
+
+/*CREATE DATABASE 'task3';
 
 USE 'task3';
 
@@ -32,7 +34,7 @@ INSERT INTO `broker` (`id`, `name`) VALUES
 (1, 'Ted'),
 (2, 'Mark'),
 (3, 'Aaron'),
-(4, 'Luke');
+(4, 'Luke');*/
 
 SELECT * FROM `users`;
 SELECT * FROM `broker`;
